@@ -1,5 +1,5 @@
 #This simple program reads a file and prints the number of lines,
-#words, and characters. Blank lines are not counted as lines.
+#words, and characters.
 filename = input("Enter a file name: ")
 
 try:
